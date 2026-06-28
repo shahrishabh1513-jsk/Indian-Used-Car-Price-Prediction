@@ -1,180 +1,324 @@
-<h1 align="center">🚗 Indian Used Car Price Predictor</h1>
+# 🚗 Indian Used Car Price Predictor
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/18307/18307539.png" width="115"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/15165/15165546.png" width="115"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/321/321238.png" width="115"/>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  📊 Machine Learning Project for Predicting Used Car Prices in India
-  <br>
-  💡 Exploratory Data Analysis • Feature Engineering • Regression Models
-</p>
+<h3 align="center">
+Predicting the resale value of used cars in India using Machine Learning 🚘
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Machine-Learning-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-Data%20Analysis-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+An end-to-end Machine Learning project covering data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and prediction.
 </p>
 
 ---
 
-# 📌 About This Project
+# 📌 Project Overview
 
-This project focuses on predicting the **resale price of used cars in Indian metro cities** using Machine Learning techniques and real-world automobile data.
+The Indian used car market is one of the fastest-growing automobile sectors. Pricing a second-hand vehicle accurately depends on multiple factors such as manufacturing year, fuel type, transmission, kilometers driven, ownership history, and brand value.
 
-The project includes:
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Feature Engineering
-- 🔢 Label Encoding & Data Transformation
-- 🤖 Model Training using Regression Algorithms
-- 📈 Car Price Prediction based on multiple features
+This project builds a Machine Learning model capable of predicting the market price of a used car using historical automobile data.
 
 ---
 
-# 🎯 Project Objective
+# 🎯 Objectives
 
-The main objective of this project is to develop a **reliable machine learning model** that can accurately predict used car prices based on factors such as:
-
-- 🚗 Company & Model
-- 📅 Car Age
-- 📏 Kilometers Driven
-- ⛽ Fuel Type
-- 🚙 Body Style
-- ⭐ Quality Score
-- 🛡️ Warranty & Ownership History
-
-This project helps in understanding the factors that influence the used car market and supports better pricing decisions.
+- Predict the resale price of used cars
+- Perform comprehensive Exploratory Data Analysis (EDA)
+- Engineer meaningful features
+- Compare multiple Machine Learning models
+- Select the most accurate regression algorithm
+- Build a deployment-ready prediction pipeline
 
 ---
 
-# 📂 Project Resources
+# 🛠 Tech Stack
 
-| 📁 Resource | 🔗 Link |
-|------------|--------|
-| 📄 Project Report (PDF) | [View Report](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf) |
-| 💻 Jupyter Notebook | [View Notebook](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb) |
-
----
-
-# ⚙️ Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="55"/>
-  &nbsp;&nbsp;
-  <img src="https://icon-icons.com/icons2/1381/PNG/512/jupyter_94583.png" width="55"/>
-  &nbsp;&nbsp;
-  <img src="https://icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="55"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1875/1875995.png" width="55"/>
-</p>
-
-<p align="center">
-  Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jupyter Notebook
-</p>
+| Category | Technologies |
+|----------|--------------|
+| Language | Python 3.10 |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Machine Learning | Scikit-Learn |
+| Development | Jupyter Notebook, VS Code |
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+# 📂 Project Structure
 
-The dataset was analyzed to understand:
-- 🚗 Car company distribution
-- 📈 Price trends
-- 📏 Mileage impact
-- 📅 Age vs Price relationship
-- ⛽ Fuel Type distribution
-- ⭐ Quality Score analysis
-- 🛡️ Warranty & Owner Type impact
-
-### 🔍 Key Findings
-
-- Premium brands have higher resale prices
-- Budget cars dominate the market in quantity
-- Lower mileage cars tend to have higher prices
-- Cars less than 5 years old retain better value
-- Diesel vehicles generally show higher pricing
-- Better quality scores are associated with higher resale prices
+```
+Indian-Used-Car-Price-Prediction/
+│
+├── dataset/
+│   └── used_car_dataset.csv
+│
+├── notebooks/
+│   └── Indian_Used_Car_Price_Prediction.ipynb
+│
+├── reports/
+│   └── Indian_Used_Car_Price_Prediction.pdf
+│
+├── models/
+│   └── random_forest_model.pkl
+│
+├── images/
+│   └── graphs.png
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── LICENSE
+```
 
 ---
 
-# 🤖 Machine Learning Models Used
+# ⚙️ Machine Learning Workflow
 
-| 🤖 Model | 📈 Performance |
-|----------|----------------|
+```
+Raw Dataset
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Train-Test Split
+      │
+      ▼
+Model Training
+      │
+      ▼
+Performance Evaluation
+      │
+      ▼
+Price Prediction
+```
+
+---
+
+# 📊 Exploratory Data Analysis
+
+EDA was performed to better understand the dataset before model training.
+
+### Major Findings
+
+✅ Vehicle age has the strongest negative relationship with selling price.
+
+✅ Cars driven fewer kilometers generally command higher resale values.
+
+✅ Diesel vehicles retain higher resale prices than petrol vehicles.
+
+✅ Premium brands experience slower depreciation.
+
+✅ Automatic transmission vehicles are generally priced higher.
+
+---
+
+# 🔧 Feature Engineering
+
+The following preprocessing techniques were applied:
+
+- Missing value handling
+- Duplicate removal
+- Outlier detection
+- Label Encoding
+- One-Hot Encoding
+- Feature Scaling
+- Train-Test Split
+
+Additional engineered features:
+
+- Car Age
+- Brand Category
+- Vehicle Usage
+
+---
+
+# 🤖 Machine Learning Models
+
+The following regression algorithms were evaluated.
+
+| Model | Performance |
+|--------|-------------|
+| Linear Regression | Baseline |
 | Decision Tree Regressor | Moderate Accuracy |
-| Random Forest Regressor | ⭐ Best Accuracy |
-
-✅ **Random Forest Regressor** performed better and produced more accurate price predictions.
+| Random Forest Regressor | ⭐ Best Performance |
 
 ---
 
-# 📈 Important Features Affecting Price
+# 🏆 Final Model
 
-| Feature | Impact |
-|---------|--------|
-| 🚗 Car Age | High |
-| 🏷️ Company / Brand | High |
-| 🚙 Body Style | Medium |
-| 📏 Kilometers Driven | High |
-| ⭐ Quality Score | Medium |
-| 🛡️ Warranty | Moderate |
+**Random Forest Regressor**
 
----
+Reasons for selection:
 
-# 🚀 Future Improvements
-
-- 🌐 Deploy as a Web Application
-- 📡 Integrate Real-Time Car Listing Data
-- 🧠 Apply Advanced ML Algorithms (XGBoost, LightGBM)
-- 📱 Build Mobile-Friendly Interface
-- ☁️ Deploy Model using Streamlit or Flask
+- Highest prediction accuracy
+- Lowest Mean Absolute Error (MAE)
+- Handles nonlinear relationships effectively
+- Robust against overfitting
 
 ---
 
-# 🌟 Why This Project Matters
+# 📈 Evaluation Metrics
 
-This project demonstrates how **Machine Learning and Data Analysis** can solve real-world business problems by helping:
+The model was evaluated using:
 
-- Buyers estimate fair car prices
-- Sellers understand market value
-- Dealers analyze resale trends
-- Students learn practical ML workflow
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
 
 ---
 
-# 🌟 Support
+# 🚀 Features
 
-If you found this project useful:
+- Data Cleaning Pipeline
+- Exploratory Data Analysis
+- Feature Engineering
+- Multiple Regression Models
+- Model Comparison
+- Best Model Selection
+- Prediction Ready
+- Easy to Deploy
 
-- ⭐ Star this repository
-- 🍴 Fork and improve the project
-- 💬 Share feedback & suggestions
-- 🤝 Contribute new ideas
+---
+
+# 📷 Sample Workflow
+
+```
+Input
+
+Brand
+Year
+Fuel Type
+Transmission
+Kilometers Driven
+Owner
+
+        │
+
+        ▼
+
+Machine Learning Model
+
+        │
+
+        ▼
+
+Predicted Selling Price
+```
+
+---
+
+# 📁 Repository Resources
+
+| Resource | Description |
+|----------|-------------|
+| 📄 Project Report | Complete methodology and analysis |
+| 📒 Jupyter Notebook | Full source code |
+| 📊 Dataset | Used car dataset |
+| 🤖 Trained Model | Random Forest Model |
+
+---
+
+# 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction.git
+```
+
+Move into the project folder
+
+```bash
+cd Indian-Used-Car-Price-Prediction
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 📌 Future Improvements
+
+- Streamlit Web Application
+- Flask REST API
+- Hyperparameter Tuning
+- XGBoost & LightGBM
+- Real-time Market Data Integration
+- Docker Deployment
+- Cloud Deployment (Render / Railway / Azure)
+
+---
+
+# 📚 Learning Outcomes
+
+This project demonstrates:
+
+- Data Preprocessing
+- Exploratory Data Analysis
+- Feature Engineering
+- Regression Algorithms
+- Model Evaluation
+- Performance Comparison
+- End-to-End ML Workflow
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/shahrishabh1513-jsk">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" width="50"/>
-  </a>
+
+<a href="https://github.com/shahrishabh1513-jsk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🙌 Final Note
+# ⭐ Support
 
-This project showcases the power of **Data Science + Machine Learning** in predicting used car prices using real-world automobile market data.
+If you found this project useful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+🛠 Contribute to improve it
+
+---
 
 <p align="center">
-  Built with ❤️ by <b>Rishabh A. Shah</b>
+
+### 🚘 Built with Python & Machine Learning
+
+**Made with ❤️ by Rishabh A. Shah**
+
 </p>
