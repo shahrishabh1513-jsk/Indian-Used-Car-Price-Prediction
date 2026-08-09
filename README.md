@@ -1,72 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=Car%20Price%20Predictor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Predicting%20Used%20Car%20Prices%20Across%20India%20🚗&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:7F00FF,100:00C9FF&height=200&section=header&text=CAR%20PRICE%20AI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Machine%20Learning%20for%20Used%20Car%20Valuation%20🚗⚡&descAlignY=68&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF512F&center=true&vCenter=true&width=750&lines=End-to-End+Machine+Learning+Project;EDA+%2B+Feature+Engineering+%2B+Regression;Random+Forest+%7C+Decision+Tree+%7C+Linear+Regression;Predicting+Resale+Value+with+Python" alt="Typing SVG" />
-
-<br/>
-
-[![Project Report](https://img.shields.io/badge/📄_PROJECT_REPORT-View_PDF-FF512F?style=for-the-badge)](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf)
-[![Repository](https://img.shields.io/badge/📂_Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction)
-[![Star](https://img.shields.io/github/stars/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction?style=for-the-badge&color=F09819&label=⭐%20STARS)](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/stargazers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=8B2FF7&center=true&vCenter=true&width=760&lines=Predicting+Used+Car+Prices+with+ML;Random+Forest+%7C+Decision+Tree+%7C+Linear+Regression;From+Raw+Data+to+Accurate+Price+Predictions;Built+with+Python+%2B+Scikit-Learn" alt="Typing SVG" />
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python_3.10+-FF512F?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<img src="https://img.shields.io/github/last-commit/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction?style=flat-square&color=FF512F&label=Last%20Updated"/>
-<img src="https://img.shields.io/badge/Model-Random_Forest_🏆-F09819?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf"><img src="https://img.shields.io/badge/📄_REPORT-Read_Full_PDF-7F00FF?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb"><img src="https://img.shields.io/badge/📒_NOTEBOOK-Open_Source_Code-9D2FE8?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction"><img src="https://img.shields.io/badge/⭐_STAR-Support_This_Repo-00C9FF?style=for-the-badge&labelColor=1a1a2e"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📌 Table of Contents
+<br/>
 
 <div align="center">
 
-[![Preview](https://img.shields.io/badge/🔍_Preview-FF512F?style=for-the-badge)](#-preview)
-[![Overview](https://img.shields.io/badge/📌_Overview-F6501B?style=for-the-badge)](#-project-overview)
-[![Objectives](https://img.shields.io/badge/🎯_Objectives-EC5117?style=for-the-badge)](#-objectives)
-[![Tech Stack](https://img.shields.io/badge/🛠️_Tech_Stack-E25213?style=for-the-badge)](#️-tech-stack)
-[![Workflow](https://img.shields.io/badge/⚙️_ML_Workflow-D8540F?style=for-the-badge)](#️-machine-learning-workflow)
-[![EDA](https://img.shields.io/badge/📊_EDA-CE560C?style=for-the-badge)](#-exploratory-data-analysis)
-[![Models](https://img.shields.io/badge/🤖_Models-C45708?style=for-the-badge)](#-machine-learning-models)
-[![Setup](https://img.shields.io/badge/💻_Installation-BA5904?style=for-the-badge)](#-installation)
-[![Roadmap](https://img.shields.io/badge/📌_Future_Plans-F09819?style=for-the-badge)](#-future-improvements)
-[![Contact](https://img.shields.io/badge/🤝_Connect-FF512F?style=for-the-badge)](#-connect-with-me)
+<img src="https://img.shields.io/badge/Python-7F00FF?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-9026F0?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Pandas-A31DE9?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/NumPy-B713E2?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Jupyter-CB0ADB?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Status-Completed-00C9FF?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🏆
+**Best Model**
+Random Forest
+
+</td>
+<td align="center" width="20%">
+
+### 📊
+**Models Compared**
+3 Algorithms
+
+</td>
+<td align="center" width="20%">
+
+### 🔧
+**Pipeline Stages**
+7 Steps
+
+</td>
+<td align="center" width="20%">
+
+### 🐍
+**Language**
+Python 3.10
+
+</td>
+<td align="center" width="20%">
+
+### 📄
+**Deliverable**
+Full PDF Report
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+· [🔍 Preview](#-preview) · [📌 Overview](#-project-overview) · [🎯 Objectives](#-objectives) · [🛠️ Stack](#️-tech-stack) · [⚙️ Workflow](#️-machine-learning-workflow) · [📊 EDA](#-exploratory-data-analysis) · [🤖 Models](#-machine-learning-models) · [💻 Setup](#-installation) · [🤝 Connect](#-connect-with-me) ·
+
+</div>
+
+<br/>
 
 ## 🔍 Preview
 
 <div align="center">
 
 <a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction" target="_blank">
-  <img src="https://opengraph.githubassets.com/64923ef7ee6d56d22bf514165f7d3fa4366ca14eeb62780400367cc28bf4c4e7/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction" alt="Indian Used Car Price Prediction Preview" width="85%" style="border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);"/>
+<img src="https://opengraph.githubassets.com/64923ef7ee6d56d22bf514165f7d3fa4366ca14eeb62780400367cc28bf4c4e7/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction" width="85%" style="border-radius:14px; border: 2px solid #7F00FF; box-shadow: 0 0 30px rgba(127,0,255,0.35);"/>
 </a>
 
-<sub>👆 Click to open the repository</sub>
-
-<br/><br/>
-
-<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Read_The_Full_Report-FF512F?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb" target="_blank">
-  <img src="https://img.shields.io/badge/📒_Open_Jupyter_Notebook-F09819?style=for-the-badge&logoColor=white"/>
-</a>
+<sub>👆 Click to open the repository on GitHub</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<br>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 📌 Project Overview
 
@@ -74,18 +101,14 @@ The Indian used car market is one of the fastest-growing automobile sectors. Pri
 
 This project builds a **Machine Learning model** capable of predicting the market price of a used car using historical automobile data — covering **data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and prediction.**
 
-<div align="center">
+<table>
+<tr><th>🚘 Domain</th><td>Automotive Resale · Regression Problem</td></tr>
+<tr><th>🧠 Approach</th><td>Supervised Machine Learning</td></tr>
+<tr><th>🏆 Best Model</th><td>Random Forest Regressor</td></tr>
+<tr><th>📊 Techniques</th><td>EDA · Feature Engineering · Model Comparison</td></tr>
+</table>
 
-| | |
-|---|---|
-| 🚘 **Domain** | Automotive Resale / Regression Problem |
-| 🧠 **Approach** | Supervised Machine Learning (Regression) |
-| 🏆 **Best Model** | Random Forest Regressor |
-| 📊 **Techniques** | EDA, Feature Engineering, Model Comparison |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 🎯 Objectives
 
@@ -93,40 +116,45 @@ This project builds a **Machine Learning model** capable of predicting the marke
 <tr>
 <td width="50%" valign="top">
 
-- 🔮 Predict the resale price of used cars
-- 📊 Perform comprehensive Exploratory Data Analysis
-- 🔧 Engineer meaningful features from raw data
+**What this project does**
+- 🔮 Predicts the resale price of used cars
+- 📊 Performs comprehensive Exploratory Data Analysis
+- 🔧 Engineers meaningful features from raw data
 
 </td>
 <td width="50%" valign="top">
 
-- ⚖️ Compare multiple Machine Learning models
-- 🏆 Select the most accurate regression algorithm
-- 🚀 Build a deployment-ready prediction pipeline
+**What it aims to prove**
+- ⚖️ Compares multiple Machine Learning models
+- 🏆 Selects the most accurate regression algorithm
+- 🚀 Builds a deployment-ready prediction pipeline
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🧩 Category | 🚀 Technology | 📝 Purpose | 🏷️ Badge |
-|:---:|:---:|:---|:---:|
-| **Language** | Python 3.10 | Core programming language | ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Data Analysis** | Pandas, NumPy | Data cleaning & manipulation | ![Pandas](https://img.shields.io/badge/-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Visualization** | Matplotlib, Seaborn | Charts & EDA visuals | ![Matplotlib](https://img.shields.io/badge/-11557C?style=flat-square&logo=plotly&logoColor=white) |
-| **Machine Learning** | Scikit-Learn | Model training & evaluation | ![Sklearn](https://img.shields.io/badge/-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **Development** | Jupyter Notebook, VS Code | Experimentation & coding | ![Jupyter](https://img.shields.io/badge/-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| Category | Technology | Purpose |
+|:---:|:---:|:---|
+| 🐍 **Language** | ![Python](https://img.shields.io/badge/-Python-7F00FF?style=flat-square&logo=python&logoColor=white) | Core programming language |
+| 📊 **Data Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-9026F0?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-A31DE9?style=flat-square&logo=numpy&logoColor=white) | Data cleaning & manipulation |
+| 📈 **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-B713E2?style=flat-square) | Charts & EDA visuals |
+| 🤖 **Machine Learning** | ![Sklearn](https://img.shields.io/badge/-Scikit--Learn-CB0ADB?style=flat-square&logo=scikitlearn&logoColor=white) | Model training & evaluation |
+| 💻 **Development** | ![Jupyter](https://img.shields.io/badge/-Jupyter-00C9FF?style=flat-square&logo=jupyter&logoColor=white) | Experimentation & coding |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 📂 Project Structure
+
+<details>
+<summary><b>Click to expand the full folder tree 📁</b></summary>
 
 ```bash
 Indian-Used-Car-Price-Prediction/
@@ -151,52 +179,29 @@ Indian-Used-Car-Price-Prediction/
 └── LICENSE
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+</details>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## ⚙️ Machine Learning Workflow
 
 <div align="center">
 
-```
-   Raw Dataset
-        │
-        ▼
-   Data Cleaning
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-  Feature Engineering
-        │
-        ▼
-   Train-Test Split
-        │
-        ▼
-   Model Training
-        │
-        ▼
-Performance Evaluation
-        │
-        ▼
-   Price Prediction 🎯
-```
+**Raw Dataset**  ➜  **Data Cleaning**  ➜  **EDA**  ➜  **Feature Engineering**  ➜  **Train-Test Split**  ➜  **Model Training**  ➜  **Evaluation**  ➜  **Price Prediction 🎯**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 📊 Exploratory Data Analysis
-
-EDA was performed to better understand the dataset before model training.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **✅ Major Findings**
-- Vehicle age has the strongest **negative** relationship with selling price
-- Cars driven fewer kilometers command **higher** resale values
+- Vehicle age has the strongest **negative** relationship with price
+- Fewer kilometers driven → **higher** resale value
 - Diesel vehicles retain **higher** resale prices than petrol
 
 </td>
@@ -211,7 +216,7 @@ EDA was performed to better understand the dataset before model training.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 🔧 Feature Engineering
 
@@ -221,11 +226,9 @@ EDA was performed to better understand the dataset before model training.
 
 **Preprocessing Techniques**
 - Missing value handling
-- Duplicate removal
-- Outlier detection
+- Duplicate removal & outlier detection
 - Label Encoding & One-Hot Encoding
-- Feature Scaling
-- Train-Test Split
+- Feature Scaling & Train-Test Split
 
 </td>
 <td width="50%" valign="top">
@@ -239,7 +242,7 @@ EDA was performed to better understand the dataset before model training.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 🤖 Machine Learning Models
 
@@ -247,68 +250,43 @@ EDA was performed to better understand the dataset before model training.
 
 | Model | Performance |
 |:---|:---:|
-| Linear Regression | Baseline |
-| Decision Tree Regressor | Moderate Accuracy |
-| **Random Forest Regressor** | ⭐ **Best Performance** |
+| Linear Regression | 🟡 Baseline |
+| Decision Tree Regressor | 🟠 Moderate Accuracy |
+| **Random Forest Regressor** | 🟣 ⭐ **Best Performance** |
 
 </div>
 
-### 🏆 Final Model — Random Forest Regressor
+> **🏆 Final Model: Random Forest Regressor** — chosen for its highest prediction accuracy, lowest Mean Absolute Error (MAE), effective handling of nonlinear relationships, and strong robustness against overfitting.
 
-- ✅ Highest prediction accuracy
-- ✅ Lowest Mean Absolute Error (MAE)
-- ✅ Handles nonlinear relationships effectively
-- ✅ Robust against overfitting
+**📈 Evaluated using:** `MAE` · `MSE` · `RMSE` · `R² Score`
 
-**📈 Evaluated using:** Mean Absolute Error (MAE) · Mean Squared Error (MSE) · Root Mean Squared Error (RMSE) · R² Score
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 🚀 Features
 
 <div align="center">
 
-✅ Data Cleaning Pipeline&nbsp;&nbsp;•&nbsp;&nbsp;✅ Exploratory Data Analysis&nbsp;&nbsp;•&nbsp;&nbsp;✅ Feature Engineering
-✅ Multiple Regression Models&nbsp;&nbsp;•&nbsp;&nbsp;✅ Model Comparison&nbsp;&nbsp;•&nbsp;&nbsp;✅ Best Model Selection
-✅ Prediction Ready&nbsp;&nbsp;•&nbsp;&nbsp;✅ Easy to Deploy
+`✅ Data Cleaning Pipeline`  `✅ Exploratory Data Analysis`  `✅ Feature Engineering`
+`✅ Multiple Regression Models`  `✅ Model Comparison`  `✅ Best Model Selection`
+`✅ Prediction Ready`  `✅ Easy to Deploy`
 
 </div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 📷 Sample Workflow
 
-```
-        Input
- ┌─────────────────────┐
- │ Brand                │
- │ Year                 │
- │ Fuel Type            │
- │ Transmission         │
- │ Kilometers Driven    │
- │ Owner                │
- └──────────┬───────────┘
-            ▼
-   Machine Learning Model
-            │
-            ▼
-   Predicted Selling Price 💰
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
-
-## 📁 Repository Resources
-
 <div align="center">
 
-| Resource | Description | Link |
-|:---:|:---|:---:|
-| 📄 **Project Report** | Complete methodology and analysis | [View PDF](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf) |
-| 📒 **Jupyter Notebook** | Full source code | [Open Notebook](https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb) |
-| 📊 **Dataset** | Used car dataset | In repo |
-| 🤖 **Trained Model** | Random Forest Model | In repo |
+**Brand · Year · Fuel Type · Transmission · Kilometers Driven · Owner**
+⬇️
+**Machine Learning Model**
+⬇️
+**💰 Predicted Selling Price**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 💻 Installation
 
@@ -326,7 +304,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 📌 Future Improvements
 
@@ -338,17 +316,17 @@ jupyter notebook
 - [ ] 🐳 Docker Deployment
 - [ ] ☁️ Cloud Deployment (Render / Railway / Azure)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00C9FF,100:7F00FF&height=3&section=header"/></div>
 
 ## 📚 Learning Outcomes
 
 <div align="center">
 
-This project demonstrates: **Data Preprocessing** • **EDA** • **Feature Engineering** • **Regression Algorithms** • **Model Evaluation** • **Performance Comparison** • **End-to-End ML Workflow**
+**Data Preprocessing** · **EDA** · **Feature Engineering** · **Regression Algorithms** · **Model Evaluation** · **Performance Comparison** · **End-to-End ML Workflow**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=3&section=header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7F00FF,100:00C9FF&height=3&section=header"/></div>
 
 ## 🤝 Connect With Me
 
@@ -356,10 +334,10 @@ This project demonstrates: **Data Preprocessing** • **EDA** • **Feature Engi
 
 **Rishabh Alpeshabhai Shah**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=netlify&logoColor=white)](https://rishabh-shah-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrishu1515@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahrishabh1513-jsk)
+<a href="https://rishabh-shah-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -369,16 +347,14 @@ This project demonstrates: **Data Preprocessing** • **EDA** • **Feature Engi
 
 ### ⭐ If you found this project useful, consider giving it a star!
 
-⭐ Star this repository &nbsp;•&nbsp; 🍴 Fork it &nbsp;•&nbsp; 🛠️ Contribute to improve it
+⭐ Star this repository &nbsp;·&nbsp; 🍴 Fork it &nbsp;·&nbsp; 🛠️ Contribute to improve it
 
-<img src="https://komarev.com/ghpvc/?username=indian-used-car-price-prediction&label=Repo%20Views&color=F09819&style=for-the-badge" alt="Repo Views" />
+<img src="https://komarev.com/ghpvc/?username=indian-used-car-price-prediction&label=Repo%20Views&color=7F00FF&style=for-the-badge" alt="Repo Views" />
 
 <br/>
 
-**🚘 Built with Python & Machine Learning**
+**🚘 Built with Python & Machine Learning · Made with ❤️ by Rishabh A. Shah**
 
-**Made with ❤️ by Rishabh A. Shah**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F09819,100:FF512F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:00C9FF,100:7F00FF&height=140&section=footer"/>
 
 </div>
