@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=71B280&center=true&vCenter=true&width=650&lines=Predicting+Resale+Value+with+ML;Random+Forest+%7C+Decision+Tree+%7C+Linear+Regression;Built+with+Python+%26+Scikit-Learn" alt="Typing SVG" />
 
+<br/>
+
 <img src="https://img.shields.io/badge/Python-134E5E?style=flat-square&logo=python&logoColor=71B280"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-1B5C6B?style=flat-square&logo=scikitlearn&logoColor=71B280"/>
 <img src="https://img.shields.io/badge/Pandas-227078?style=flat-square&logo=pandas&logoColor=71B280"/>
