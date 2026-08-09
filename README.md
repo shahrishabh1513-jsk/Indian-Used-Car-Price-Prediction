@@ -13,11 +13,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf"><b>📄 Report</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb"><b>📒 Notebook</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction"><b>⭐ Star</b></a>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf"><img src="https://img.shields.io/badge/📄_PROJECT_REPORT-134E5E?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb"><img src="https://img.shields.io/badge/📒_NOTEBOOK-1B5C6B?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction"><img src="https://img.shields.io/badge/⭐_STAR_REPO-71B280?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
@@ -106,10 +104,10 @@ jupyter notebook
 
 <div align="center">
 
-<a href="https://rishabh-shah-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-134E5E?style=flat-square&logo=netlify&logoColor=71B280"/></a>
-<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/"><img src="https://img.shields.io/badge/LinkedIn-1B5C6B?style=flat-square&logo=linkedin&logoColor=71B280"/></a>
-<a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-227078?style=flat-square&logo=gmail&logoColor=71B280"/></a>
-<a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-134E5E?style=flat-square&logo=github&logoColor=71B280"/></a>
+<a href="https://rishabh-shah-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-134E5E?style=for-the-badge&logo=netlify&logoColor=71B280"/></a>
+<a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
