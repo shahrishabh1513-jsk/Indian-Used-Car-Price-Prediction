@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Pandas-227078?style=flat-square&logo=pandas&logoColor=71B280"/>
 <img src="https://img.shields.io/badge/Status-Completed-71B280?style=flat-square"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.pdf"><img src="https://img.shields.io/badge/📄_PROJECT_REPORT-134E5E?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/shahrishabh1513-jsk/Indian-Used-Car-Price-Prediction/blob/main/Indian_Used_Car_Price_Prediction.ipynb"><img src="https://img.shields.io/badge/📒_NOTEBOOK-1B5C6B?style=for-the-badge&logoColor=white"/></a>
