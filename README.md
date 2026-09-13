@@ -1,6 +1,18 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="15%" align="center">
+<img src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="110" alt="Shah Rishabh badge logo"/>
+</td>
+<td width="70%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=180&section=header&text=Car%20Price%20Prediction&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20for%20Used%20Car%20Valuation&descAlignY=65&descSize=15" width="100%"/>
+</td>
+<td width="15%" align="center">
+<img src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="110" alt="Shah Rishabh badge logo"/>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=180&section=header&text=Car%20Price%20Prediction&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20for%20Used%20Car%20Valuation&descAlignY=65&descSize=15"/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=71B280&center=true&vCenter=true&width=650&lines=Predicting+Resale+Value+with+ML;Random+Forest+%7C+Decision+Tree+%7C+Linear+Regression;Built+with+Python+%26+Scikit-Learn" alt="Typing SVG" />
 
